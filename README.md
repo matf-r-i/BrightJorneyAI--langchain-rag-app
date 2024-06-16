@@ -10,3 +10,5 @@ It's clear that while LLMs are powerful, they aren't without their shortcomings,
 2. CD to application directory
 3. Run `poetry install` to install all dependencies
 4. Run `poetry run streamlit run .\langchain-rag-bot\app.py`
+
+VF
