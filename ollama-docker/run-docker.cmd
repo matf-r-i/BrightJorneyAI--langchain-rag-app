@@ -1,0 +1,1 @@
+docker run -it --rm -v "C:/vlado/_docker_volumes/ollama" ollama-docker
