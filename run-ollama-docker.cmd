@@ -1,0 +1,1 @@
+docker run -d -v ollama:"/C/vlado/_docker_volumes/ollama" -p 11434:11434 --name ollama ollama/ollama
