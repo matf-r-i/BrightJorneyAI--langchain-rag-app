@@ -8,6 +8,6 @@ It's clear that while LLMs are powerful, they aren't without their shortcomings,
 ## How to Run
 1. Ensure poetry is installed for dependency management
 2. CD to application directory
-3. Run `poetry env use 311` to set python vesrion to 3.11
+3. Run `poetry env use 311` to set python version to 3.11
 4. Run `poetry install` to install all dependencies
 5. Run `poetry run streamlit run ./langchain-rag-bot/app.py`
